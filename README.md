@@ -2,7 +2,7 @@
 
 ###  `React Application`
 
-Created a simple web application which contains all the details of the colleges, that accessed by API http://localhost:3000/colleges and display particular data with help of CSS style and display only the selected data in the page.
+Created a simple react application to convert currency based on the given requirement, that accessed by API  https://api.frankfurter.app/latest and display particular data. styled with help of CSS.
 
 
 ## Installation and Launch
