@@ -81,7 +81,7 @@ class Converter extends React.Component {
           
           </div>
           <br/>
-          <button  onClick={this.convertHandler}>Convert</button>
+          <button className="button" onClick={this.convertHandler}>Convert</button>
           <br/><br/>
 
           <div className='center'>
